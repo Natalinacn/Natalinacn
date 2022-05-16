@@ -7,9 +7,6 @@ I´m Natalin from Argentina. I´m currently studying Web Development and I reall
 ## Skills: 
 HTML / CSS/ JS / ANGULAR
 
-### You can check out my linkedin https://www.linkedin.com/in/natalin-acuna/
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Natalinacn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/natalin-acuna/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natalinacn)](https://github.com/anuraghazra/github-readme-stats)
