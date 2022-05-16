@@ -2,7 +2,7 @@
 
 Hi there! 
 
-I´m Natalin from Argentina. I´m currently studying Web Development and I really enjoy learning new things. At this moment I have basic knowledge about HTML, CSS, Javascript, Bootstrap and Angular and I hope to improve my skills soon.
+I´m Natalin from Argentina. I´m currently studying Web Development and I really enjoy learning new things. At this moment I have basic knowledge about HTML, CSS, Javascript, Bootstrap and Angular but I hope to improve my skills soon.
 
 ## Skills: 
 HTML / CSS/ JS / ANGULAR
