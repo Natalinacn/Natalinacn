@@ -1,9 +1,13 @@
+Hi there! 
+
+I´m Natalin Acuña from Argentina. I´m currently studying Web Development and I really enjoy learning new things. At this moment I have basic knowledge about HTML, CSS, Javascript, Bootstrap and Angular.
+
+You can check out my linkedin https://www.linkedin.com/in/natalin-acuna/
 
 
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Natalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalinacn)](https://github.com/Natalinacn/github-readme-stats)
 
 <!--
 **Natalinacn/Natalinacn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
